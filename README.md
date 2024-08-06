@@ -1,6 +1,6 @@
 # Curso de Fundamentos Matemáticos para Data Science y Machine Learning
 
-**(este es un curso en proceso de creación, cualquier ayuda es bien recibida)**
+**(este es un curso en proceso de creación, cualquier corrección o aporte a los jupyters se agradece)**
 
 ## Descripción del Curso
 

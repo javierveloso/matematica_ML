@@ -1,5 +1,7 @@
 # Curso de Fundamentos Matemáticos para Data Science y Machine Learning
 
+**(este es un curso en proceso de creación, cualquier ayuda es bien recibida)**
+
 ## Descripción del Curso
 
 Este curso está diseñado para proporcionar una comprensión sólida de los fundamentos matemáticos que son esenciales para Data Science y Machine Learning. A través de una combinación de teoría, ejemplos prácticos y ejercicios de programación, los estudiantes aprenderán a aplicar conceptos de álgebra lineal y cálculo a problemas del mundo real en el análisis de datos y la construcción de modelos de aprendizaje automático.
